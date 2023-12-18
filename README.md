@@ -6,7 +6,7 @@ I hoping to learn and colaborate with people in Java and Python. I am also open 
 Programming Languages: Python, Java
 
 ## Education
-- Bachelor of Science in Cybersecurity with a minor Computer Science
+- Bachelor of Science in Cybersecurity with a minor in Computer Science
   - Kennesaw State University, May 2025
 ## 📫 Let's Connect 
 -LinkedIn: www.linkedin.com/in/uchechukwu-nkenke-7a05bb293/
